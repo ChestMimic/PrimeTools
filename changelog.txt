@@ -1,3 +1,4 @@
 September 8, 2014:
  * First commit, version 0.1
  * Adds functionality to determine if a given number is prime.
+ * Add function to find smallest prime factor of a given number
