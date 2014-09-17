@@ -13,3 +13,11 @@ def isPrime(num):
 			return False
 		i += 1
 	return True
+
+if __name__ == '__main__':
+	count = -3
+	while count <= 13:
+		r = isPrime(count)
+		print(repr(count) + " is prime: " + repr(r))
+		count += 1
+		
